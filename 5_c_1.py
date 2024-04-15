@@ -1,1 +1,2 @@
-print("lab 3")
+str = "lab 3"
+print(str)
