@@ -1,2 +1,1 @@
-str = "Hello word"
-print(str)
+print("Hello, Word!")
