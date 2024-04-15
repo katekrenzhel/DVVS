@@ -1,3 +1,3 @@
-a = "Hello,"
-b = " word!"
+a = "Hello, "
+b = "Python!"
 print(a + b)
